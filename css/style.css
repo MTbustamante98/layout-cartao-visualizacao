@@ -71,7 +71,7 @@ section {
 .container-imagem::before {
   content: '';
   display: block;
-  background-image: url('/images/icon-view.svg');
+  background-image: url('../images/icon-view.svg');
   display: block;
   width: 48px;
   height: 48px;
